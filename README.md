@@ -13,6 +13,7 @@
 ## Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ### Also, for the application to work, you need to clone the server repository:
+### `git clone https://github.com/gaarkusha/real-time-chat-server`
 
 
 
